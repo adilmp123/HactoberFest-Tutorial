@@ -1,4 +1,4 @@
-# HacktoberFest-Tut
+# HaktoberFest-Tutorial
 
 Hi there People! Add your names below...
 | Name         | Class     | Github Profile
