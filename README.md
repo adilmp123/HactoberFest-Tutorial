@@ -1,8 +1,8 @@
 # HacktoberFest-Tut
 
 Hi there People! Add your names below...
-| Name         | Class     | 
-|--------------|-----------|
-| Nazim Filzer | CSB       | 
-| John Doe     | EEE       | 
+| Name         | Class     | Github Profile
+|--------------|-----------|-----------|
+| Nazim Filzer | CSB       | https://github.com/NazimFilzer/ |
+| John Doe     | EEE       | https://github.com/adilmp123/ |
 
