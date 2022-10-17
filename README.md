@@ -8,5 +8,6 @@ Hi there People! Add your names below...
 
 | Lisa VC      | CSA       | https://github.com/LisaVCherian/ |
 | Navya PS     | CSA       | https://github.com/navyaps/ |
-
+| Juan Thomas  | EEE       | https://github.com/juanthomasmathew/
+| Kurein       | EEE       |
 
