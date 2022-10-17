@@ -1,6 +1,6 @@
-# HaktoberFest-Tutorial
+# HacktoberFest-Tutorial
 
-Hi there People! Add your names below...
+Hi there! Please, add your names bellow:
 | Name         | Class     | Github Profile
 |--------------|-----------|-----------|
 | Nazim Filzer | CSB       | https://github.com/NazimFilzer/ |
