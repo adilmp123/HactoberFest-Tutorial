@@ -11,7 +11,7 @@ git clone [https://github.com/itsmedeepak/Hacktoberfest-2022.git](https://github
 ```markdown
 git checkout -b my-new-branch
 ```
-- Add your Name to `CONTRIBUTER.md`
+- Add your Name to `README.md`
 ```markdown
 git add .
 ```
